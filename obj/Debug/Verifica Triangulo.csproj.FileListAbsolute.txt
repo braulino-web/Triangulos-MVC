@@ -1,0 +1,10 @@
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\bin\Debug\Trabalho POO.exe.config
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\bin\Debug\Trabalho POO.exe
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\bin\Debug\Trabalho POO.pdb
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Verifica Triangulo.csproj.AssemblyReference.cache
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Trabalho_POO.Form1.resources
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Trabalho_POO.Properties.Resources.resources
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Verifica Triangulo.csproj.GenerateResource.cache
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Verifica Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Trabalho POO.exe
+C:\Users\Braulino\Desktop\Trabalho-Luciano-master\obj\Debug\Trabalho POO.pdb
